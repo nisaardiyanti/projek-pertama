@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Activity List</string>
+    <string name="LOGIN">Login</string>
+    <string name="EMAIL">Email</string>
+    <string name="PASSWORD">Password</string>
+    <string name="FORGOT_PASSWORD">Forgot password?</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="list">List</string>
+    <string name="image">list</string>
+    <string name="textview">TextView</string>
+    <string name="save">SAVE</string>
+    <string name="iMAGE">IMAGE</string>
+    <string name="list_aktivitasmu_sekarang">List Aktivitasmu sekarang</string>
+    <string name="Bulanan">TextView</string>
+    <string name="menu">MENU</string>
+    <string name="aktivitas_hari_ini">Aktivitas Hari Ini</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="LIST">LIST</string>
+</resources>
